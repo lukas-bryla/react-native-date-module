@@ -1,0 +1,44 @@
+{
+  "name": "@lukasbryla/react-native-date-module",
+  "version": "1.0.2",
+  "description": "Date range and single date picker for React Native",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukas-bryla/react-native-date-module.git"
+  },
+  "keywords": [
+    "react-native",
+    "datepicker",
+    "daterange",
+    "daterange-picker",
+    "react-native-daterange-picker",
+    "react-native-date-module"
+  ],
+  "author": "Lukáš Brýla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukas-bryla/react-native-date-module/issues"
+  },
+  "homepage": "https://github.com/lukas-bryla/react-native-date-module#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.74.0"
+  },
+  "devDependencies": {
+    "@react-native-community/eslint-config": "^2.0.0",
+    "eslint": "^7.6.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.5",
+    "eslint-plugin-react-hooks": "^4.0.8",
+    "eslint-plugin-react-native": "^3.8.1",
+    "prettier": "^2.0.5"
+  }
+}
